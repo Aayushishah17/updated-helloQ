@@ -427,8 +427,13 @@
 
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
-
+import { useEffect } from "react";
 const Privacy = () => {
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
+
+
   return (
     <div className="min-h-screen bg-purple-600/30">
 

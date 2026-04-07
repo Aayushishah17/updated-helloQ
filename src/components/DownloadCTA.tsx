@@ -78,7 +78,8 @@ const DownloadCTA = () => (
         transition={{ duration: 0.7, delay: 0.15 }}
         className="font-heading text-lg text-primary-foreground/90 mb-4 max-w-xl mx-auto"
       >
-        Your next great conversation is closer than you think. Join HelloQ today and let's make it happen. 
+        <p>Your next great conversation is closer than you think.</p>
+         Join HelloQ today and let's make it happen. 
       </motion.p>
 
       {/* Micro copy */}

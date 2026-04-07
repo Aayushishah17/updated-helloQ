@@ -77,7 +77,8 @@ const FAQSection = () => (
         className="text-center mb-12"
       >
         <h2 className="font-display text-3xl sm:text-4xl md:text-5xl font-bold text-foreground mb-4">
-          Got questions? <span className="text-gradient-rainbow">We've got good answers.</span>
+          Got questions? 
+          <p><span className="text-gradient-rainbow">We've got good answers.</span></p>
         </h2>
       </motion.div>
 

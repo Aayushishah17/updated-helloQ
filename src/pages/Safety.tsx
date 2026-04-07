@@ -137,8 +137,12 @@
 
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
+import { useEffect } from "react";
 
 const Safety = () => {
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
   return (
     <div className="min-h-screen bg-purple-600/30">
 
@@ -153,7 +157,7 @@ const Safety = () => {
               Connect with confidence
             </h1>
 
-            <p className="text-muted-foreground text-lg max-w-2xl mx-auto">
+            <p className="text-muted-foreground text-lg max-w-1xl mx-auto">
               Safety isn't a layer we added on top — it's woven into every feature HelloQ is built on.
             </p>
           </div>

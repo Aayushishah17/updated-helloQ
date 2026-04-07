@@ -11,6 +11,7 @@ import Help from "./pages/Help";
 import Safety from "./pages/Safety";
 import Contact from "./pages/contact";
 
+
 const queryClient = new QueryClient();
 
 const App = () => (
@@ -28,6 +29,7 @@ const App = () => (
   <Route path="/Help" element={<Help />} />
   <Route path="/Safety" element={<Safety />} />
   <Route path="/Contact" element={<Contact />} />
+ 
           <Route path="*" element={<NotFound />} />
         </Routes>
       </BrowserRouter>
