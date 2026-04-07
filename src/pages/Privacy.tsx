@@ -548,7 +548,7 @@ const Privacy = () => {
                 <li>Opt-out of notifications: Manage your communication preferences anytime in your account settings.</li>
               </ul>
               <p className="mt-2">
-                To exercise any of these rights, contact us at privacy@helloq.app. We will respond within 30 days.
+                To exercise any of these rights, contact us at privacy@helloq.com. We will respond within 30 days.
               </p>
             </section>
 
@@ -591,7 +591,7 @@ const Privacy = () => {
 
             <section>
               <h2 className="text-xl font-semibold text-foreground mb-3">11. Contact Us</h2>
-              <p>Email: privacy@helloq.app</p>
+              <p>Email: privacy@helloq.com</p>
              
             </section>
 

@@ -204,27 +204,27 @@ const Contact = () => {
 
               <div>
                 <p className="font-semibold text-foreground">◎ General Inquiries</p>
-                <p>hello@helloq.app</p>
+                <p>hello@helloq.com</p>
               </div>
 
               <div>
                 <p className="font-semibold text-foreground">⊘ Safety & Report an Issue</p>
-                <p>safety@helloq.app — monitored 24/7.</p>
+                <p>safety@helloq.com — monitored 24/7.</p>
               </div>
 
               <div>
                 <p className="font-semibold text-foreground">◈ Press & Media</p>
-                <p>press@helloq.app</p>
+                <p>press@helloq.com</p>
               </div>
 
               <div>
                 <p className="font-semibold text-foreground">◿ Bug Reports & Technical Support</p>
-                <p>support@helloq.app or use in-app support in Settings → Help.</p>
+                <p>support@helloq.com or use in-app support in Settings → Help.</p>
               </div>
 
               <div>
                 <p className="font-semibold text-foreground">✦ Feedback & Suggestions</p>
-                <p>hello@helloq.app — we read everything.</p>
+                <p>hello@helloq.com — we read everything.</p>
               </div>
 
               <div>
@@ -313,9 +313,7 @@ const Contact = () => {
                 By submitting this form, you agree to our Privacy Policy. We never share your contact details with third parties.
               </p>
 
-              <p className="text-xs text-muted-foreground mt-2 text-center">
-                Last updated: April 2025
-              </p>
+              
             </section>
 
           </div>

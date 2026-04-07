@@ -62,7 +62,7 @@ const Help = () => {
               <p>
                 Email{" "}
                 <span className="text-foreground font-medium">
-                  safety@helloq.app
+                  safety@helloq.com
                 </span>{" "}
                 for urgent, non-emergency safety concerns within our platform.
               </p>

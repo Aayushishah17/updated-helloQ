@@ -200,8 +200,8 @@ HelloQ may suspend or terminate your account if:
             <section>
               <h2 className="text-xl font-semibold text-foreground mb-3">12. Contact Information</h2>
               <p>For questions about these Terms, please contact us:</p>
-              <p>Email: <span className="text-foreground font-medium">legal@helloq.app</span></p>
-              <p>General Support: <span className="text-foreground font-medium">support@helloq.app                    </span></p>
+              <p>Email: <span className="text-foreground font-medium">legal@helloq.com</span></p>
+              <p>General Support: <span className="text-foreground font-medium">support@helloq.com</span></p>
             </section>
 
           </div>

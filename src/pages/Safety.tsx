@@ -244,7 +244,7 @@ const Safety = () => {
                 <p>
                   For urgent safety matters, email us directly at{" "}
                   <span className="text-foreground font-medium">
-                    safety@helloq.app
+                    safety@helloq.com
                   </span>{" "}
                   — include as much detail as you can and we'll prioritise your case.
                 </p>
