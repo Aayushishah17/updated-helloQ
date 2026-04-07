@@ -65,9 +65,9 @@ const cols = [
   {
     title: "Social",
     links: [
-      { name: "Instagram", path: "https://www.instagram.com/thehelloq?igsh=MXcxeTA2YTV1Z3A3dA==" },
-      { name: "Facebook", path: "https://www.facebook.com/share/1UC7YdGuXL/?mibextid=wwXIfr" },
-      { name: "Snapchat", path: "https://snapchat.com/t/QgY5Q79O" },
+      { name: "Instagram", path: "https://www.instagram.com/thehelloq" },
+      { name: "Facebook", path: "https://www.facebook.com/people/HelloQ" },
+      { name: "Snapchat", path: "https://www.snapchat.com/@thehelloq" },
       { name: "Youtube", path: "#" },
     ],
   },

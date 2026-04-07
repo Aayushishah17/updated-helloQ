@@ -37,7 +37,7 @@ const Help = () => {
 
             {/* Emergency Services */}
             <section>
-              <h2 className="text-xl font-semibold text-foreground mb-3">🆘 Emergency Services</h2>
+              <h2 className="text-xl font-semibold text-foreground mb-3">Emergency Services</h2>
               <p>
                 In an immediate emergency, always call your local emergency number (911 in the US, 999 in the UK, 112 in the EU).
               </p>
@@ -45,7 +45,7 @@ const Help = () => {
 
             {/* Hotline */}
             <section>
-              <h2 className="text-xl font-semibold text-foreground mb-3">◎ National Domestic Violence Hotline</h2>
+              <h2 className="text-xl font-semibold text-foreground mb-3">National Domestic Violence Hotline</h2>
               <p className="text-foreground font-medium">
                 1-800-799-7233 (US)
               </p>
@@ -54,7 +54,7 @@ const Help = () => {
 
             {/* Crisis Line */}
             <section>
-              <h2 className="text-xl font-semibold text-foreground mb-3">◈ Crisis Text Line</h2>
+              <h2 className="text-xl font-semibold text-foreground mb-3">Crisis Text Line</h2>
               <p className="text-foreground font-medium">
                 Text HOME to 741741 (US/UK/CA)
               </p>
@@ -63,7 +63,7 @@ const Help = () => {
 
             {/* HelloQ Safety */}
             <section>
-              <h2 className="text-xl font-semibold text-foreground mb-3">⊛ HelloQ Safety Team</h2>
+              <h2 className="text-xl font-semibold text-foreground mb-3">HelloQ Safety Team</h2>
               <p>
                 Email{" "}
                 <span className="text-foreground font-medium">

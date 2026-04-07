@@ -45,32 +45,32 @@ const Contact = () => {
               <h2 className="text-2xl font-semibold text-foreground">How can we help?</h2>
 
               <div>
-                <p className="font-semibold text-foreground">◎ General Inquiries</p>
+                <p className="font-semibold text-foreground">General Inquiries</p>
                 <p>hello@helloq.com</p>
               </div>
 
               <div>
-                <p className="font-semibold text-foreground">⊘ Safety & Report an Issue</p>
+                <p className="font-semibold text-foreground">Safety & Report an Issue</p>
                 <p>safety@helloq.com — monitored 24/7.</p>
               </div>
 
               <div>
-                <p className="font-semibold text-foreground">◈ Press & Media</p>
+                <p className="font-semibold text-foreground">Press & Media</p>
                 <p>press@helloq.com</p>
               </div>
 
               <div>
-                <p className="font-semibold text-foreground">◿ Bug Reports & Technical Support</p>
+                <p className="font-semibold text-foreground">Bug Reports & Technical Support</p>
                 <p>support@helloq.com or use in-app support in Settings → Help.</p>
               </div>
 
               <div>
-                <p className="font-semibold text-foreground">✦ Feedback & Suggestions</p>
+                <p className="font-semibold text-foreground">Feedback & Suggestions</p>
                 <p>hello@helloq.com — we read everything.</p>
               </div>
 
               <div>
-                <p className="font-semibold text-foreground">◉ Before you write — check the FAQ</p>
+                <p className="font-semibold text-foreground">Before you write — check the FAQ</p>
                 <p>Many common questions are already answered in our FAQ section.</p>
               </div>
             </section>

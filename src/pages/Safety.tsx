@@ -173,37 +173,37 @@ const Safety = () => {
               <div className="space-y-6">
 
                 <div>
-                  <h3 className="font-semibold text-foreground">✓ Verified Profiles</h3>
+                  <h3 className="font-semibold text-foreground"> Verified Profiles</h3>
                   <p>Every HelloQ user completes photo verification before they can interact with others.</p>
                 </div>
 
                 <div>
-                  <h3 className="font-semibold text-foreground">◈ Advanced Privacy Controls</h3>
+                  <h3 className="font-semibold text-foreground"> Advanced Privacy Controls</h3>
                   <p>Choose who sees you, when, and how much with full control over your visibility.</p>
                 </div>
 
                 <div>
-                  <h3 className="font-semibold text-foreground">⊘ Block & Report — Two Taps</h3>
+                  <h3 className="font-semibold text-foreground"> Block & Report — Two Taps</h3>
                   <p>Block instantly or report users. Our moderation team reviews reports quickly.</p>
                 </div>
 
                 <div>
-                  <h3 className="font-semibold text-foreground">◎ AI-Assisted Moderation</h3>
+                  <h3 className="font-semibold text-foreground"> AI-Assisted Moderation</h3>
                   <p>AI detects harmful behaviour in real-time to prevent issues early.</p>
                 </div>
 
                 <div>
-                  <h3 className="font-semibold text-foreground">⊛ Date Check-In</h3>
+                  <h3 className="font-semibold text-foreground"> Date Check-In</h3>
                   <p>Set a check-in reminder during dates to ensure your safety.</p>
                 </div>
 
                 <div>
-                  <h3 className="font-semibold text-foreground">◿ 24/7 Moderation Team</h3>
+                  <h3 className="font-semibold text-foreground"> 24/7 Moderation Team</h3>
                   <p>Our team works around the clock to handle safety issues.</p>
                 </div>
 
                 <div>
-                  <h3 className="font-semibold text-foreground">◉ Safe Messaging Guidelines</h3>
+                  <h3 className="font-semibold text-foreground"> Safe Messaging Guidelines</h3>
                   <p>Prompts help guide respectful conversations and prevent escalation.</p>
                 </div>
 
@@ -236,7 +236,7 @@ const Safety = () => {
               <p className="mb-4">We take every report seriously.</p>
 
               <div className="space-y-4">
-                <p className="font-semibold text-foreground">◎ How to report on HelloQ</p>
+                <p className="font-semibold text-foreground">How to report on HelloQ</p>
 
                 <ul className="list-disc ml-6 space-y-2">
                   <li>Go to the user's profile or open your conversation with them</li>
