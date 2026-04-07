@@ -87,17 +87,17 @@ const features = [
   {
     icon: Sparkles,
     title: "Spark Intelligence™",
-    desc: "Our AI goes beyond surface-level interests. It learns what lights you up — your quirks, values, and conversational style — to surface connections that feel less like luck and more like fate.",
+    desc: "Our AI goes beyond surface-level interests. It learns what lights you up  your quirks, values, and conversational style to surface connections that feel less like luck and more like fate.",
   },
   {
     icon: Palette,
     title: "Your Canvas",
-    desc: "Build a profile that feels like you — not a résumé. Choose your vibe, showcase your interests, add voice intros, and let your personality breathe. First impressions should be accurate ones.",
+    desc: "Build a profile that feels like you not a résumé. Choose your vibe, showcase your interests, add voice intros, and let your personality breathe. First impressions should be accurate ones.",
   },
   {
     icon: Users,
     title: "Circles & Gatherings",
-    desc: "Find your people through shared passions. Join interest-based events, local hangouts, and themed groups — a lower-pressure way to meet new connections doing things you already love.",
+    desc: "Find your people through shared passions. Join interest-based events, local hangouts, and themed groups a lower-pressure way to meet new connections doing things you already love.",
   },
 ];
 

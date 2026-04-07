@@ -200,7 +200,7 @@ import { motion } from "framer-motion";
 
 const testimonials = [
   {
-    quote: "I'd basically given up on dating apps. HelloQ felt different from my first match — like it actually understood what I was looking for, not just who I was looking like.",
+    quote: "I'd basically given up on dating apps. HelloQ felt different from my first match like it actually understood what I was looking for, not just who I was looking like.",
     initials: "AK",
     name: "Alex K.",
     role: "Member since 2024 · London",
@@ -212,13 +212,13 @@ const testimonials = [
     role: "Member since 2023 · Toronto",
   },
   {
-    quote: "Finally — a dating app I don't feel anxious using. The privacy tools are thoughtful and I never feel like my data is being sold somewhere.",
+    quote: "Finally a dating app I don't feel anxious using. The privacy tools are thoughtful and I never feel like my data is being sold somewhere.",
     initials: "SR",
     name: "Sam R.",
     role: "Member since 2024 · Sydney",
   },
   {
-    quote: "I met my person at a HelloQ Circles event — a small local book group. The app creates space for things to happen naturally.",
+    quote: "I met my person at a HelloQ Circles event  a small local book group. The app creates space for things to happen naturally.",
     initials: "TL",
     name: "Taylor L.",
     role: "Member since 2023 · New York",
@@ -267,7 +267,7 @@ const TestimonialsSection = () => (
 
               {/* Quote */}
               <p className="text-foreground/90 text-base leading-relaxed">
-                “{t.quote}”
+                {t.quote}
               </p>
             </div>
 
